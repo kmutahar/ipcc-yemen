@@ -1,6 +1,10 @@
 # ipcc-yemen
 A collection of all iPhone IPCC files to be used for the Yemeni mobile network "Yemen Mobile"
 
+## Activating 3G
+
+If 3G does not working automatically go to Settings > Cellular and enable Data Roaming. If you have a phone with 2 SIM cards select the correct one and enable Data Roaming
+
 ## License
 
 The theme is licensed under the terms of the [GNU Affero General Public License v3.0 only](https://www.gnu.org/licenses/).
